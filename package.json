@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float64-base-add4",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compute the sum of four double-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
